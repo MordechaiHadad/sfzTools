@@ -8,3 +8,5 @@ Dist/
 *.user
 Example/
 *.ps1
+/HierarchyTest
+testArgs.txt
